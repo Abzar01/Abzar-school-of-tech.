@@ -1,0 +1,42 @@
+form {
+    background-color: #ff000a;
+    color: #15ff23;
+    border-radius:10px;
+    padding: 5px;
+}
+body {
+    background-color:black;
+    color: white;
+}
+input{
+    background-color: white;
+    color: Black ;
+    border:1px;
+    border-radius:20px;
+    width: 70%;
+    padding: 7px;
+    margin-bottom:10px ;
+    
+}
+select {
+    color : Black;
+     background-color: white;
+     padding: 7px;
+     margin-bottom:10px ;
+     border-radius:20px;
+     width: 70%;
+}
+h1{
+    text-align: center ; 
+    color:#26ff00;
+    font-style:oblique;
+}
+h2{
+  text-align: center ;
+  text-decoration : underline ;
+  color:red;
+  letter-spacing:6px;
+}
+p{
+    color :#1100ff
+}
